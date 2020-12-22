@@ -1,0 +1,9 @@
+Dave,oranges,10
+Joe,apples,30
+Dave,peaches,20
+Adam,apples,15
+Dave,apples,12
+Joe,peaches,11
+Joe,oranges,5
+Adam,oranges,100
+Adam,peaches,10
